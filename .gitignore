@@ -2,3 +2,4 @@ venv
 jupyter_notebooks/generative_ai/stable_diffusion/.ipynb_checkpoints
 jupyter_notebooks/machine_learning/.ipynb_checkpoints/clusterization-checkpoint.ipynb
 jupyter_notebooks/machine_learning/.ipynb_checkpoints/kNN-checkpoint.ipynb
+jupyter_notebooks/ai_agents/config.yaml
